@@ -12,7 +12,7 @@ Este projeto implementa um sistema de envio de notificações utilizando o parad
 
 ##### Enunciado:
 
-![image](https://github.com/user-attachments/assets/ea6cc00d-050e-4e30-a4ef-9cd8693894c1)
+![image](https://github.com/joaoson/Swift---SOMATIVA1/blob/main/images/requisito_um.png)
 
 ##### Implementação:
 
@@ -36,7 +36,7 @@ protocol Notificavel {
 
 ##### Enunciado:
 
-![image](https://github.com/user-attachments/assets/71d8fb28-79c7-470d-90ad-1825927eb2e4)
+![image](https://github.com/joaoson/Swift---SOMATIVA1/blob/main/images/requisito_dois.png)
 
 ##### Implementação:
 
@@ -83,7 +83,7 @@ struct PushNotification: Notificavel {
 
 ##### Enunciado:
 
-![image](https://github.com/user-attachments/assets/7a067637-5c15-4a91-bba1-ca3722c30d38)
+![image](https://github.com/joaoson/Swift---SOMATIVA1/blob/main/images/requisito_tres.png)
 
 
 ##### Implementação:
@@ -143,7 +143,7 @@ struct PushNotification: Notificavel {
 
 ##### Enunciado:
 
-![image](https://github.com/user-attachments/assets/27e62c31-d0ce-46b9-b46f-863994467c03)
+![image](https://github.com/joaoson/Swift---SOMATIVA1/blob/main/images/requisito_quatro.png)
 
 
 ##### Implementação:
@@ -162,7 +162,7 @@ struct PushNotification: Notificavel {
 
 ##### Enunciado:
 
-![image](https://github.com/user-attachments/assets/a9095285-281d-477b-9ada-5339a8edf987)
+![image](https://github.com/joaoson/Swift---SOMATIVA1/blob/main/images/requisito_cinco.png)
 
 
 ##### Implementação:
@@ -200,7 +200,7 @@ protocol Notificavel {
 
 ##### Enunciado:
 
-![image](https://github.com/user-attachments/assets/3dc45290-2b45-4079-9029-74e91952d436)
+![image](https://github.com/joaoson/Swift---SOMATIVA1/blob/main/images/requisito_seis.png)
 
 
 ##### Implementação:
