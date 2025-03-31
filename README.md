@@ -2,6 +2,9 @@
 
 ### Projeto Swift Essencial: Sistema de Notificações
 
+### Integrantes: Amanda Queiroz Sobral, Carlos Eduardo Domingues Hobmeier, João Vitor de Freitas e Theo Lucas Nicoleli
+
+
 ![image](https://github.com/user-attachments/assets/a68a1a46-3596-4bb3-9396-7d784452031c)
 
 
