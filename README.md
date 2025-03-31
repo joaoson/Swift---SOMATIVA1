@@ -237,7 +237,7 @@ protocol Notificavel {
 
 ##### Enunciado:
 
-![image](https://github.com/user-attachments/assets/d8aba476-9ded-4095-a132-e5fb9cb3794e)
+![image](https://github.com/joaoson/Swift---SOMATIVA1/blob/main/images/requisito_sete.png)
 
 ##### Implementação:
 
@@ -277,7 +277,7 @@ struct Email: Notificavel {
 
 ##### Enunciado:
 
-![image](https://github.com/user-attachments/assets/bfbcbfc2-893e-46cc-a097-f5e52812d36a)
+![image](https://github.com/joaoson/Swift---SOMATIVA1/blob/main/images/requisito_oito.png)
 
 ##### Implementação:
 
